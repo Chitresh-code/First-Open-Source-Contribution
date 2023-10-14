@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src="https://pbs.twimg.com/profile_images/1703845017167798272/wKc8mE11_400x400.jpg" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Chitresh Gyanani</b></sub>
                 </a> 
