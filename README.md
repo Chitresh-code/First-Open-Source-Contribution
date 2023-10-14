@@ -48,6 +48,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Chitresh Gyanani</b></sub>
                 </a> 
             </td>
+            <td align="center">
+              <a href="https://twitter.com/chitreshgyanani">
+                <img src="https://avatars.githubusercontent.com/u/96070627?s=400&u=e6adb8266fb93f0ff2cafb320857d1676d0e1a60&v=4" width="100px;" alt="Mayank Kashyap"/>
+            <br />
+            <sub><b>Mayank Kashyap</b></sub>
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
