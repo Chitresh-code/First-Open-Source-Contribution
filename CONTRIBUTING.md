@@ -4,7 +4,7 @@
 
 1) You will first need git which you can download from [here](https://git-scm.com/downloads).
 
-2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
+2) Now head [here](https://github.com/Chitresh-code/First-Open-Source-Contribution) and click on the `fork` button.
 
 3) On the next page you will see a `create fork` button, press it.
 
@@ -18,17 +18,17 @@
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://twitter.com/chitreshgyanani">
+            <img src="=https://lh3.googleusercontent.com/a/ACg8ocJmT-5SrkJFTrkm6TjbwXNjqIwLpHXnAsOHjq_oxM-F02A2=s288-c-no" width="100px;" alt="Chitresh Gyanani"/>
             <br />
-            <sub><b>Ali Solanki</b></sub>
+            <sub><b>Chitresh Gyanani</b></sub>
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+        <a href="https://www.linkedin.com/in/chitresh-gyanani-9595a3215/">
+            <img src="https://avatars.githubusercontent.com/u/129378666?v=4" width="100px;" alt="Chitresh"/>
             <br />
-            <sub><b>Neeraj Madake
+            <sub><b>Chitresh</b></sub>
         </a>
     </td>
     ```
