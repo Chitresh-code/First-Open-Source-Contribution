@@ -45,7 +45,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-    <tbody>
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
@@ -96,7 +95,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
-        </tr> 
-        
-    </tbody>
+        </tr>
 </table>
