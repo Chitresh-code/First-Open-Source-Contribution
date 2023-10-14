@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+# Welcome to Open Source Contributions 
 
 <p>List of actively participating individulas in open source contributions</p>
 
@@ -31,7 +31,7 @@
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
 
-## Contributors 🍉
+## Contributors 
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
