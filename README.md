@@ -6,7 +6,7 @@
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/Chitresh-code/First-Open-Source-Contribution/blob/main/CONTRIBUTING.md)
 
-<div class="icons-social" style="margin-left: 10px;">
+<div class="icons-social" align="center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chitresh-gyanani-9595a3215/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
