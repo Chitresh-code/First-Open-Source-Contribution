@@ -42,7 +42,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
+                <a href="https://github.com/Chitresh-code">
                     <img src="https://lh3.googleusercontent.com/a/ACg8ocJmT-5SrkJFTrkm6TjbwXNjqIwLpHXnAsOHjq_oxM-F02A2=s288-c-no" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Chitresh Gyanani</b></sub>
